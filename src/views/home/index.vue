@@ -21,7 +21,11 @@
             </div>
         </div>
         
-        <button class="btn" @click="handleButton()">开始</button>
+        <div>
+            <button class="btn" @click="handleButton()">开始123</button>
+            <button class="btn" @click="handleButton()">开始</button>
+        </div>
+        
     </div>
 </template>
 
